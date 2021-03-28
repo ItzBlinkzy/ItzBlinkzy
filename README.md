@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-#### I'm Blinkzy, I love to make random things and learn new things. I currently specialize in [Discord](https://discord.com) Bots and backend development.
+#### I'm Blinkzy, I love to make random things and learn new things. I currently specialize in creating [Discord](https://discord.com) Bots, if you need a bot created, contact me.
 
 ## 🌐 Languages
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" width="48">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript" width="48">](https://www.typescriptlang.org/) [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Typescript" width="48">](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -16,7 +16,7 @@
 
 - https://github.com/ItzBlinkzy/prntscraper
 
-## ✈️ Other Places You Can Find Me
+## ✈️ Contact Me
 [<img src="https://cdn.icon-icons.com/icons2/2224/PNG/512/discord_logo_icon_134445.png" alt="dev.to" width="55">](https://discord.com/invite/ur3mBg5)
 
 

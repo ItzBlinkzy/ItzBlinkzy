@@ -12,6 +12,11 @@
 [<img src="https://d1.awsstatic.com/rdsImages/postgresql_logo.6de4615badd99412268bc6aa8fc958a0f403dd41.png" alt="PostgreSQL" width="48">](https://www.postgresql.org)
 [<img src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png" alt="PostgreSQL" width="50">](https://www.heroku.com)
 
+## 📈 Stats
+![Blinkzy's github stats](https://github-readme-stats.vercel.app/api?username=itzblinkzy&show_icons=true&theme=radical)
+
+![Blinkzy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itzblinkzy&layout=compact&theme=radical)
+
 ## 🔭 Current Projects
 
 - https://github.com/ItzBlinkzy/prntscraper

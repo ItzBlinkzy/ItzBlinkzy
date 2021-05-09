@@ -1,3 +1,4 @@
+
 ### Hey there 👋
 
 #### I'm Blinkzy, I love to make random things and learn new things. I currently specialize in creating [Discord](https://discord.com) Bots, if you need a bot created, contact me.
@@ -11,6 +12,7 @@
 [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="Git" width="48">](https://git-scm.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" width="48">](https://code.visualstudio.com/)
 [<img src="https://d1.awsstatic.com/rdsImages/postgresql_logo.6de4615badd99412268bc6aa8fc958a0f403dd41.png" alt="PostgreSQL" width="48">](https://www.postgresql.org)
 [<img src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png" alt="PostgreSQL" width="50">](https://www.heroku.com)
+[<img src="https://pypi.org/static/images/logo-large.72ad8bf1.svg" alt="PostgreSQL" width="70">](https://www.pypi.org)
 
 ## 📈 Stats
 ![Blinkzy's github stats](https://github-readme-stats.vercel.app/api?username=itzblinkzy&show_icons=true&theme=radical)

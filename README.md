@@ -6,6 +6,7 @@
 ## 🌐 Languages
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" width="48">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript" width="48">](https://www.typescriptlang.org/) [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Typescript" width="48">](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="Python" width="48">](https://docs.python.org/3/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" alt="Lua" width="52">](https://lua.org)
 
 ## 🛠️ Tools
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="Node Package Manager" width="48">](https://npmjs.com)
@@ -13,6 +14,7 @@
 [<img src="https://d1.awsstatic.com/rdsImages/postgresql_logo.6de4615badd99412268bc6aa8fc958a0f403dd41.png" alt="PostgreSQL" width="48">](https://www.postgresql.org)
 [<img src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png" alt="PostgreSQL" width="50">](https://www.heroku.com)
 [<img src="https://pypi.org/static/images/logo-large.72ad8bf1.svg" alt="PostgreSQL" width="70">](https://www.pypi.org)
+[<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" alt="MongoDB" width="70">](https://www.mongodb.com/)
 
 ## 📈 Stats
 ![Blinkzy's github stats](https://github-readme-stats.vercel.app/api?username=itzblinkzy&show_icons=true&theme=radical)

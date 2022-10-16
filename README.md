@@ -12,11 +12,12 @@
 
 ## 🛠️ Tools
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="Node Package Manager" width="48">](https://npmjs.com)
-[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="Git" width="48">](https://git-scm.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" width="48">](https://code.visualstudio.com/)
+[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="Git" width="48">](https://git-scm.com/) 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" width="48">](https://code.visualstudio.com/)
 [<img src="https://d1.awsstatic.com/rdsImages/postgresql_logo.6de4615badd99412268bc6aa8fc958a0f403dd41.png" alt="PostgreSQL" width="48">](https://www.postgresql.org)
-[<img src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png" alt="PostgreSQL" width="50">](https://www.heroku.com)
-[<img src="https://pypi.org/static/images/logo-large.72ad8bf1.svg" alt="PostgreSQL" width="70">](https://www.pypi.org)
-[<img src="https://www.pngitem.com/pimgs/m/385-3850320_png-transparent-mongodb-icon-mongodb-logo-png-download.png" alt="MongoDB" width="50">](https://www.mongodb.com/)
+[<img src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png" alt="Heroku" width="50">](https://www.heroku.com)
+[<img src="https://miro.medium.com/max/1200/1*8Zh-mzLnVMDsbvXdKsU4lw.png" alt="PyPi" width="70">](https://www.pypi.org)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="MongoDB" width="150" height="50">](https://www.mongodb.com/)
 
 ## 📈 Stats
 ![Blinkzy's github stats](https://github-readme-stats.vercel.app/api?username=itzblinkzy&show_icons=true&theme=radical)

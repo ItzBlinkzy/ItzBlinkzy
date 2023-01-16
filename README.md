@@ -25,7 +25,7 @@
 ![Blinkzy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itzblinkzy&layout=compact&theme=radical)
 
 ## 🔭 Current Projects
-
+- https://github.com/ItzBlinkzy/shortkutt
 - https://github.com/ItzBlinkzy/prntscraper
 - https://github.com/ItzBlinkzy/roblox-rpc
 - https://github.com/ItzBlinkzy/disable-all-extensions

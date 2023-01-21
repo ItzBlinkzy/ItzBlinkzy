@@ -20,9 +20,9 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="MongoDB" width="150" height="50">](https://www.mongodb.com/)
 
 ## 📈 Stats
-![Blinkzy's github stats](https://github-readme-stats-ruby-one.vercel.app/api?username=itzblinkzy&show_icons=true&theme=radical)
+![Blinkzy's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=itzblinkzy&show_icons=true&theme=radical)
 
-![Blinkzy's top languages](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=itzblinkzy&layout=compact&theme=radical)
+![Blinkzy's top languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=itzblinkzy&layout=compact&theme=radical)
 
 ## 🔭 Current Projects
 - https://github.com/ItzBlinkzy/shortkutt

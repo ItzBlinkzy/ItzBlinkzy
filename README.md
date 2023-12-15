@@ -21,8 +21,8 @@ I'm Kevin (aka Blinkzy), I love to make random applications tailored to specific
 
 ## 📈 Stats
 ![Blinkzy's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=itzblinkzy&show_icons=true&theme=radical)
+![Blinkzy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itzblinkzy&theme=radical)
 
-![Blinkzy's top languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=itzblinkzy&layout=compact&theme=radical)
 
 ## 🔭 Current Projects
 - https://github.com/ItzBlinkzy/shortkutt

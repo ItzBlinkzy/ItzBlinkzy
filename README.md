@@ -31,7 +31,9 @@ I'm Kevin (aka Blinkzy), I love to make random applications tailored to specific
 - https://github.com/ItzBlinkzy/disable-all-extensions
 
 ## ✈️ Contact Me
-[<img src="https://cdn.icon-icons.com/icons2/2224/PNG/512/discord_logo_icon_134445.png" alt="dev.to" width="55">](https://discord.com/invite/ur3mBg5)
+<img src="https://cdn.icon-icons.com/icons2/2224/PNG/512/discord_logo_icon_134445.png" alt="dev.to" width="55">
+- @bigblinkzy
+
 
 
 

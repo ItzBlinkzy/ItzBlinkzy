@@ -1,7 +1,7 @@
 
 ### Hey there 👋
 
-I'm Kevin (aka Blinkzy), I love to make random applications tailored to specific use cases I need.
+I'm Kevin, I love to make random applications tailored to specific use cases I need.
 
 ## 🌐 Languages
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" width="48">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)

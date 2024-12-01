@@ -26,11 +26,27 @@ I'm Kevin, I love to make random applications tailored to specific use cases I n
 ![Extra Stats](https://github-readme-streak-stats.herokuapp.com/?user=ItzBlinkzy&theme=radical&show_icons=false)
 
 
-## 🔭 Current Projects
-- https://github.com/ItzBlinkzy/shortkutt
-- https://github.com/ItzBlinkzy/prntscraper
-- https://github.com/ItzBlinkzy/roblox-rpc
-- https://github.com/ItzBlinkzy/disable-all-extensions
+## Current Projects
+
+<div style="display:flex; justify-content:center;">
+  <a href="https://github.com/ItzBlinkzy/disable-all-extensions" style="margin-right:10px; min-width:400px; min-height:200px;">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ItzBlinkzy&repo=disable-all-extensions&theme=radical" />
+  </a>
+  <a href="https://github.com/ItzBlinkzy/roblox-rpc" style="margin-left:10px; min-width:400px; min-height:200px;">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ItzBlinkzy&repo=roblox-rpc&theme=radical" />
+  </a>
+</div>
+<br/>
+
+<div style="display:flex; justify-content:center;">
+  <a href="https://github.com/ItzBlinkzy/prntscraper" style="margin-left:10px; min-width:400px; min-height:200px;">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ItzBlinkzy&repo=prntscraper&theme=radical" />
+  </a>
+  <a href="https://github.com/ItzBlinkzy/shortkutt" style="margin-right:10px; min-width:400px; min-height:200px;">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ItzBlinkzy&repo=shortkutt&theme=radical" />
+  </a>
+</div>
+
 
 ## ✈️ Contact Me
 📧- kevin@blinkzy.dev

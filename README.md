@@ -23,27 +23,23 @@ I'm Kevin, I have a strong interest in backend infrastructure. In my free time I
 ![Blinkzy's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=itzblinkzy&show_icons=true&theme=radical)
 
 ![Blinkzy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itzblinkzy&theme=radical)
-![Extra Stats](https://github-readme-streak-stats.herokuapp.com/?user=ItzBlinkzy&theme=radical&show_icons=false)
-
 
 ## Current Projects
 
 <div style="display:flex; justify-content:center;">
-  <a href="https://github.com/ItzBlinkzy/disable-all-extensions" style="margin-right:10px; min-width:400px; min-height:200px;">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ItzBlinkzy&repo=disable-all-extensions&theme=radical" />
-  </a>
+
   <a href="https://github.com/ItzBlinkzy/roblox-rpc" style="margin-left:10px; min-width:400px; min-height:200px;">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ItzBlinkzy&repo=roblox-rpc&theme=radical" />
+  </a>
+  <a href="https://github.com/ItzBlinkzy/disable-all-extensions" style="margin-right:10px; min-width:400px; min-height:200px;">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ItzBlinkzy&repo=disable-all-extensions&theme=radical" />
   </a>
 </div>
 <br/>
 
 <div style="display:flex; justify-content:center;">
-  <a href="https://github.com/ItzBlinkzy/prntscraper" style="margin-left:10px; min-width:400px; min-height:200px;">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ItzBlinkzy&repo=prntscraper&theme=radical" />
-  </a>
-  <a href="https://github.com/ItzBlinkzy/shortkutt" style="margin-right:10px; min-width:400px; min-height:200px;">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ItzBlinkzy&repo=shortkutt&theme=radical" />
+  <a href="https://github.com/ItzBlinkzy/keyscan" style="margin-left:10px; min-width:400px; min-height:200px;">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ItzBlinkzy&repo=KEYSCAN&theme=radical" />
   </a>
 </div>
 

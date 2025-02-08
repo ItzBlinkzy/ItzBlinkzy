@@ -2,6 +2,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kevin.;" />
 </h1>
 
+I'm a 3rd year software development student currently completing an internship. 
+
 I have a strong interest in backend infrastructure. In my free time I love creating full stack applications to solve a problem I may have.
 ## 🌐 Languages
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" width="48">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)

@@ -39,11 +39,6 @@ I have a strong interest in backend infrastructure. In my free time I love creat
 </div>
 <br/>
 
-<div style="display:flex; justify-content:center;">
-  <a href="https://github.com/ItzBlinkzy/keyscan" style="margin-left:10px; min-width:400px; min-height:200px;">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ItzBlinkzy&repo=KEYSCAN&theme=radical" />
-  </a>
-</div>
 
 
 ## ✈️ Contact Me
